@@ -1,0 +1,46 @@
+{
+  "name": "cyberganica",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cyberganica",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/react": "^1.6.22",
+    "gatsby": "^3.10.2",
+    "gatsby-plugin-image": "^1.10.1",
+    "gatsby-plugin-manifest": "^3.10.0",
+    "gatsby-plugin-mdx": "^2.10.1",
+    "gatsby-plugin-react-helmet": "^4.10.0",
+    "gatsby-plugin-sharp": "^3.10.2",
+    "gatsby-plugin-sitemap": "^4.6.0",
+    "gatsby-source-filesystem": "^3.10.0",
+    "gatsby-source-shopify": "^5.2.1",
+    "gatsby-transformer-sharp": "^3.10.0",
+    "isomorphic-fetch": "^3.0.0",
+    "lodash": "^4.17.21",
+    "lodash.isequal": "^4.5.0",
+    "lodash.isequalwith": "^4.4.0",
+    "query-string": "^7.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.2.0",
+    "shopify-buy": "^2.11.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "gatsby-plugin-postcss": "^4.10.0",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
+  }
+}
