@@ -1,3 +1,2 @@
-
-
-This is an ecommerce application built with gatsby off the shopify boiler plate. Aside from cart logic, everything else has been rebuilt using tailwindCSS and the new shopify api.
+# Gatsby_Ecommerce_Project
+This project is a demo headless Ecommerce application built with GatsbyJS and Shopify + Shopify Storefront API. Frontend styling done with TailwindCSS.
